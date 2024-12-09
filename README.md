@@ -119,7 +119,12 @@ The image shows a summary of dataset statistics and variable types from a data a
 ---
 The plot below displays the total number of data points categorized by gender. The number of male and female participants appears to be roughly equal, indicating that there is no significant class imbalance. Therefore, metrics such as accuracy can be used with confidence in evaluating the model's performance.
 
-![]()
+![](assets/newplot.png)
+
+---
+The majority of customers appear to opt for Fiber optic connections over DSLs, with only a small number choosing neither option. It would be interesting to investigate the extent to which each type of connection impacts customer churn behavior.
+
+![](assets/newplot.png)
 
 
 
