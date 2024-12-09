@@ -143,7 +143,20 @@ The information that a vast majority of participants have month-to-month contrac
   
 By analyzing these potential drivers of churn and monitoring customer behavior over time, companies could develop strategies to retain customers and reduce churn. For example, they could offer more flexible pricing options, improve customer service, or provide incentives to encourage customers to commit to longer term contracts.
 
-![]()
+![](assets/contract.png)
+
+---
+##  Device Protection Revenue
+* The total monthly revenue generated from Device Protection is $9.5 million.
+* This indicates that Device Protection is a significant revenue driver for the business.
+* The segment with "No Internet Service" has a monthly revenue of $1.0 million from Device Protection.
+* This suggests that even customers without internet service are still opting for Device Protection, likely due to the value proposition of protecting their devices
+* The segment with "No" Device Protection has a monthly revenue of $5.6 million.
+* This presents an opportunity to upsell Device Protection to these customers, potentially increasing revenue.
+
+  ![]()
+  
+---
 
 
 
