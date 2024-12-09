@@ -176,6 +176,20 @@ The boxplot shows the distribution of Total Charges across different types of In
 
 ---
 
+### MACHINE LEARNINING MODEL PERFORMANCE
+We can evaluate the performance of ML models in this section. A list of models that I have tried are presented along with confusion matrix and AUC curves. We can get a good understanding of the model performance by visually inspecting the plots. After this step, we can select the best model to be hyperparameter tuned and deployed in real-time.
+
+**Logistic Regression Performance**
+We will take a look at the performance of ML models on the test data. Confusion matrix gives a good representation of the total number of true positives, true negatives, false positives and false negatives. In addition, this can also help determine the total accuracy, precision, recall and f1-scores using formulas.
+
+![](assets/Post_hoc.png)
+
+
+
+
+
+
+
 
 
 
