@@ -24,8 +24,8 @@ In this project, we aim to help **Telco**, a leading telecommunications provider
 
 With advanced analytics and machine learning, **Telco** can turn data into actionable insights, keeping customers connected and improving overall business outcomes. 
 
-
-![Telecommunications Tower]()
+---
+![Telecommunications Tower](assets/pexels-bruna-fossile-183845208-18291974.jpg)
 
 
 
