@@ -179,12 +179,22 @@ The boxplot shows the distribution of Total Charges across different types of In
 ### MACHINE LEARNINING MODEL PERFORMANCE
 We can evaluate the performance of ML models in this section. A list of models that I have tried are presented along with confusion matrix and AUC curves. We can get a good understanding of the model performance by visually inspecting the plots. After this step, we can select the best model to be hyperparameter tuned and deployed in real-time.
 
-**Logistic Regression Performance**
+# ***Logistic Regression Performance***
+
 We will take a look at the performance of ML models on the test data. Confusion matrix gives a good representation of the total number of true positives, true negatives, false positives and false negatives. In addition, this can also help determine the total accuracy, precision, recall and f1-scores using formulas.
 
 ![](assets/logistic.png)
 
-The AUC score for the classifier is about 0.76 respectively. It does a decent job of classifying whether customers are going to churn from the service or not. We can also explore other models that can also improve AUC scores even further.
+The AUC score for the classifier is about 0.85 respectively. It does a decent job of classifying whether customers are going to churn from the service or not. We can also explore other models that can also improve AUC scores even further.
+
+![](assets/AUC.png)
+
+----
+# ***XGBOOST CLASSIFIER*** :
+
+After looking at the confusion matrix of xgboost classifier, it could be found that there are only quite a few false positives and false negatives. Therefore, this model is performing quite well. There are about 199 false positives which means that the model does a decent job of identifying people who are going to churn from various services.
+
+![](assets/AUC.png)
 
 
 
