@@ -182,7 +182,11 @@ We can evaluate the performance of ML models in this section. A list of models t
 **Logistic Regression Performance**
 We will take a look at the performance of ML models on the test data. Confusion matrix gives a good representation of the total number of true positives, true negatives, false positives and false negatives. In addition, this can also help determine the total accuracy, precision, recall and f1-scores using formulas.
 
-![](assets/Post_hoc.png)
+![](assets/logistic.png)
+
+The AUC score for the classifier is about 0.76 respectively. It does a decent job of classifying whether customers are going to churn from the service or not. We can also explore other models that can also improve AUC scores even further.
+
+
 
 
 
