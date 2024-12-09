@@ -140,7 +140,11 @@ The information that a vast majority of participants have month-to-month contrac
 * Shorter term contracts may indicate that customers are more likely to be price-sensitive and looking for flexibility. Therefore, price changes or lack of flexibility could be potential drivers of churn.
 * Month-to-month contracts may suggest that customers are more willing to switch providers or cancel their service. This could increase the risk of churn if competitors offer more attractive alternatives.
 * Customers on shorter term contracts may be less committed to the service, and therefore less likely to recommend it to others or refer new customers.
-* 
+  
+By analyzing these potential drivers of churn and monitoring customer behavior over time, companies could develop strategies to retain customers and reduce churn. For example, they could offer more flexible pricing options, improve customer service, or provide incentives to encourage customers to commit to longer term contracts.
+
+![]()
+
 
 
 
