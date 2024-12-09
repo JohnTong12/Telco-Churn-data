@@ -103,7 +103,13 @@ One of the images here gives us a clear view of the input data, highlighting a f
 It’s important to note that while this image illustrates only a selection of features, our dataset contains many more. However, these are the key highlights to show the potential of what we can achieve with the right understanding and approach.
 
 ---
-![Telecommunications Tower](assets/ISP.png)
+
+![Telecommunications Tower](assets/data.png)
+
+---
+We can now understand the total number of missing values from each of the features. Missingno plots from the Pandas Profiler can be used to show a list of missing values from the features. It clearly indicates that there are less number of missing values in the data.
+
+
 
 
 
