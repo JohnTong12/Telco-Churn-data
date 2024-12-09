@@ -10,9 +10,7 @@ The following libraries and frameworks were used in this project:
 - **[Pandas](https://pandas.pydata.org/):** Data manipulation and analysis.  
 - **[NumPy](https://numpy.org/):** Numerical computations.  
 - **[SciPy](https://scipy.org/):** Statistical analysis and advanced computations.  
-- **[Scikit-learn](https://scikit-learn.org/stable/):** Machine learning algorithms and utilities.  
-- **[TensorFlow](https://www.tensorflow.org/):** Deep learning framework.  
-- **[Keras](https://keras.io/):** High-level neural network API.  
+- **[Scikit-learn](https://scikit-learn.org/stable/):** Machine learning algorithms and utilities.    
 - **[XGBoost](https://xgboost.readthedocs.io/):** Gradient boosting framework for predictive modeling.  
 - **[Plotly](https://plotly.com/):** Interactive visualizations and dashboards.
 ---
