@@ -197,10 +197,20 @@ After looking at the confusion matrix of xgboost classifier, it could be found t
 ![](assets/XGBOOST.png)
 
 
-The **AUC** score for the classifier is about 0.85 respectively. It does a decent job of classifying whether customers are going to churn from the service or not. We can also explore other models that can also improve AUC scores even further.
+The **AUC** score for the classifier is about 0.83 respectively. It does a decent job of classifying whether customers are going to churn from the service or not. We can also explore other models that can also improve AUC scores even further.
 
 
-![](assets/XGBOOST.png)
+![](assets/XG.png)
+
+---
+# **Random Forest Classifier**
+
+ This classifier has a reputation for excelling in a variety of machine learning tasks and exhibiting high robustness to variance. In models like decision trees, which rely on simplistic if-else conditions to navigate through the tree structure, high variance may occur when data dimensionality is high or the training examples are significantly fewer than the total number of dimensions in the data. Random forest, on the other hand, employs numerous decision trees in concert to produce the final classification output, effectively mitigating the issue of high variance.
+
+![](assets/XG.png)
+
+
+ 
 
 
 
