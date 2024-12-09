@@ -194,8 +194,13 @@ The AUC score for the classifier is about 0.85 respectively. It does a decent jo
 
 After looking at the confusion matrix of xgboost classifier, it could be found that there are only quite a few false positives and false negatives. Therefore, this model is performing quite well. There are about 199 false positives which means that the model does a decent job of identifying people who are going to churn from various services.
 
-![](assets/AUC.png)
+![](assets/XGBOOST.png)
 
+
+The **AUC** score for the classifier is about 0.85 respectively. It does a decent job of classifying whether customers are going to churn from the service or not. We can also explore other models that can also improve AUC scores even further.
+
+
+![](assets/XGBOOST.png)
 
 
 
