@@ -113,6 +113,12 @@ We can now understand the total number of missing values from each of the featur
 
 ---
 The image shows a summary of dataset statistics and variable types from a data analysis report. It provides an overview of the dataset, including the number of variables, number of observations, missing cells, duplicate rows, total size in memory, and average record size in memory. Additionally, it categorizes the variable types into text, categorical, boolean, and numeric.
+
+![](assets/dataset_overview.png)
+
+---
+The plot below displays the total number of data points categorized by gender. The number of male and female participants appears to be roughly equal, indicating that there is no significant class imbalance. Therefore, metrics such as accuracy can be used with confidence in evaluating the model's performance.
+
 ![]()
 
 
