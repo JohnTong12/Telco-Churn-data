@@ -131,7 +131,7 @@ The majority of participants chose electronic checks as their preferred payment 
 
 This revision provides a clearer breakdown of the different payment methods chosen by participants and avoids the use of the word "default," which could imply that electronic checks were the only option or the preferred choice for all participants. The revised statement also emphasizes the convenience factor of automatic credit card payments, which could be helpful information for future payment processing considerations.
 
-![](assets/Payment Method.png)
+![](assets/Payment.png)
 
 ----
 
