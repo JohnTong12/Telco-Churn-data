@@ -111,6 +111,12 @@ We can now understand the total number of missing values from each of the featur
 
 ![Missingness Visual](assets/missingness_plot.png)
 
+---
+The image shows a summary of dataset statistics and variable types from a data analysis report. It provides an overview of the dataset, including the number of variables, number of observations, missing cells, duplicate rows, total size in memory, and average record size in memory. Additionally, it categorizes the variable types into text, categorical, boolean, and numeric.
+![]()
+
+
+
 
 
 
