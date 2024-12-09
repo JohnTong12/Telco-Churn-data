@@ -210,6 +210,12 @@ The **AUC** score for the classifier is about 0.83 respectively. It does a decen
 ![](assets/rf_C.png)
 
 
+it turns out that the random Forest classifier really did a very good job in distinguishing the False Positive rates to the True Positives , it had AUC of 1 which is most cases of rare cases 
+
+
+![](assets/RF_A.png)
+
+
  
 
 
