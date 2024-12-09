@@ -154,7 +154,7 @@ By analyzing these potential drivers of churn and monitoring customer behavior o
 * The segment with "No" Device Protection has a monthly revenue of $5.6 million.
 * This presents an opportunity to upsell Device Protection to these customers, potentially increasing revenue.
 
-  ![]()
+  ![](assets/DeviceProtection.png)
   
 ---
 The boxplot shows the distribution of Total Charges across different types of Internet Service (DSL, Fiber optic, and No service)
