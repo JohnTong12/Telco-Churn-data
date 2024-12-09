@@ -160,7 +160,16 @@ By analyzing these potential drivers of churn and monitoring customer behavior o
 The boxplot shows the distribution of Total Charges across different types of Internet Service (DSL, Fiber optic, and No service)
  
   
-  ![]()
+  ![](assets/Medians.png)
+
+  **Insights**
+  
+  * Customers using Fiber optic have significantly higher median Total Charges compared to other service types.
+  * The range of charges for Fiber optic is also broader, indicating higher revenue potential from these customers.
+  * Customers with DSL have a lower median Total Charges than Fiber optic but higher than those with no internet service.
+    
+![](assets/Medians.png)
+
   
 
 ---
