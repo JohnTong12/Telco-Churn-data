@@ -167,8 +167,10 @@ The boxplot shows the distribution of Total Charges across different types of In
   * Customers using Fiber optic have significantly higher median Total Charges compared to other service types.
   * The range of charges for Fiber optic is also broader, indicating higher revenue potential from these customers.
   * Customers with DSL have a lower median Total Charges than Fiber optic but higher than those with no internet service.
+
+ "Dunn's test results show statistically significant differences in Total Charges across all pairs of Internet Service categories (DSL, Fiber optic, No service). This finding underscores the importance of segmentation and targeted strategies to maximize revenue from high-value segments (e.g., Fiber optic) and improve retention or upsell opportunities for lower-value groups."
     
-![](assets/Medians.png)
+![](assets/Post_hoc.png)
 
   
 
