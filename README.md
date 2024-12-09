@@ -157,8 +157,13 @@ By analyzing these potential drivers of churn and monitoring customer behavior o
   ![]()
   
 ---
+The boxplot shows the distribution of Total Charges across different types of Internet Service (DSL, Fiber optic, and No service)
+ 
+  
+  ![]()
+  
 
-
+---
 
 
 
