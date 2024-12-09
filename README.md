@@ -207,7 +207,7 @@ The **AUC** score for the classifier is about 0.83 respectively. It does a decen
 
  This classifier has a reputation for excelling in a variety of machine learning tasks and exhibiting high robustness to variance. In models like decision trees, which rely on simplistic if-else conditions to navigate through the tree structure, high variance may occur when data dimensionality is high or the training examples are significantly fewer than the total number of dimensions in the data. Random forest, on the other hand, employs numerous decision trees in concert to produce the final classification output, effectively mitigating the issue of high variance.
 
-![](assets/XG.png)
+![](assets/rf_C.png)
 
 
  
