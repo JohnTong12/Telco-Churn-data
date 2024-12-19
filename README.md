@@ -187,7 +187,7 @@ The AUC score for the classifier is about 0.85 respectively. It does a decent jo
 
 ![](assets/AUC.png)
 
-# Featuree Importance for Logistic Regression  using shap 
+ Feature Importance for Logistic Regression  using shap 
 
 hey , i used shap to provide us a summary of key insights of our models predicttions , it helps understand the undeerlying drivers of the models predictions 
 * Monthly charges has the highest impact on the models output ,customers with highly monthly charges are most likely to churn
