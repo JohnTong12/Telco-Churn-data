@@ -187,13 +187,15 @@ The AUC score for the classifier is about 0.85 respectively. It does a decent jo
 
 ![](assets/AUC.png)
 
- Feature Importance for Logistic Regression  using shap 
+ #  Feature Importance for Logistic Regression  using shap 
 
 hey , i used shap to provide us a summary of key insights of our models predicttions , it helps understand the undeerlying drivers of the models predictions 
-* Monthly charges has the highest impact on the models output ,customers with highly monthly charges are most likely to churn
+* MonthlyCharges is the most influential feature by far, showing both positive and negative impacts on the model's predictions. This suggests that pricing is the primary driver of customer behavior.
 * InternetService_Fiber optic:Customers using fiber optic internet seem to have a significant impact.it suggests that fiber optic users might be more likely to churn, possibly due to high costs or dissatisfaction with the service.
-* Tenure:Longer-tenured customers tend to have lower SHAP values 
-
+* Tenure shows a significant impact - longer tenure generally decreases the predicted outcome while shorter tenure increases it.
+* TotalCharges also has a notable impact, though less than monthly charges, suggesting that the current pricing matters more than accumulated charges.
+* The high impact of monthly charges suggests that price sensitivity is a crucial factor in customer decisions. Customers are likely very conscious of their monthly bill amounts.
+* The tenure effect indicates that getting through the early months of a customer relationship is critical - once customers stay longer, they're more likely to continue their service.
 ![](assets/shap1.png)
 
 ----
