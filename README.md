@@ -187,6 +187,15 @@ The AUC score for the classifier is about 0.85 respectively. It does a decent jo
 
 ![](assets/AUC.png)
 
+# Featuree Importance for Logistic Regression  using shap 
+
+hey , i used shap to provide us a summary of key insights of our models predicttions , it helps understand the undeerlying drivers of the models predictions 
+* Monthly charges has the highest impact on the models output ,customers with highly monthly charges are most likely to churn
+* InternetService_Fiber optic:Customers using fiber optic internet seem to have a significant impact.it suggests that fiber optic users might be more likely to churn, possibly due to high costs or dissatisfaction with the service.
+* Tenure:Longer-tenured customers tend to have lower SHAP values 
+
+![](assets/shap1.png)
+
 ----
 # ***XGBOOST CLASSIFIER*** :
 
